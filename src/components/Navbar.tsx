@@ -15,7 +15,7 @@ const Navbar = () => {
             <Link to="/" className="flex items-center space-x-2">
               <Coins className="w-8 h-8 text-[var(--accent)]" />
               <span className="text-xl font-bold">
-                SolanaCasino
+                SOLSINO
               </span>
             </Link>
 
